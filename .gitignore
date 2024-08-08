@@ -4,3 +4,4 @@ dist
 *.egg
 .pytest_cache
 *.pyc
+.venv
